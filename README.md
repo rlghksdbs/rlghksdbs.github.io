@@ -1,3 +1,6 @@
-## IAM-VFI : Interpolate Any Motion for Video Frame Interpolation with motion complexity map [ECCV 2024]
+# rlghksdbs.github.io
 
-### [IAM-VFI code](https://github.com/rlghksdbs/IAM-VFI)
+- This page is borrowed from [keunhonh](https://github.com/keunhong/keunhong.github.io)
+
+- Thanks to [keunhonh](https://github.com/keunhong/keunhong.github.io) for open-sourcing this template.
+
