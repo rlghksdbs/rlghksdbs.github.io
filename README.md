@@ -1,6 +1,6 @@
 # rlghksdbs.github.io
 
-- This page is borrowed from [keunhonh](https://github.com/keunhong/keunhong.github.io)
+- This page is borrowed from [keunhong](https://github.com/keunhong/keunhong.github.io)
 
-- Thanks to [keunhonh](https://github.com/keunhong/keunhong.github.io) for open-sourcing this template.
+- Thanks to [keunhong](https://github.com/keunhong/keunhong.github.io) for open-sourcing this template.
 

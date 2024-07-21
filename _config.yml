@@ -25,15 +25,12 @@ email: rlghksdbs@gmail.com
 description: >-
   I am a researcher in 2D computer vision, generative models, and computer graphics. I was previously a research scientist at [Google](https://ai.google/research/).
 
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
+  I received my Ph.D from the University of Seoul in 2024 where I was advised by
+  Yong Han Kim.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kihwanyoon.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+url: "https://rlghksdbs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: rlghksdbs
+google_scholar: LLLbCIQAAAAJ
 
 # Build settings
 theme: minima
