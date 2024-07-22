@@ -126,6 +126,21 @@ layout: null
         </div>
         {% endfor %}
       </div>
+
+      <div class="content">
+        <h2>Awards</h2>
+        {% for awards in site.data.awards %}
+        <div class="columns">
+          <div class="column is-four-fifths">
+            <b>{{ awards.name }}</b><br />
+            {{ awards.description }}
+          </div>
+          <div class="column is-one-fifths has-text-right">
+            {{ awards.dates }}
+          </div>
+        </div>
+        {% endfor %}
+
     </div>
   </section>
 
