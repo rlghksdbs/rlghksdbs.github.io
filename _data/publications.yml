@@ -18,7 +18,7 @@
   project_page: "https://rlghksdbs.github.io/casr_page/"
   github: rlghksdbs/CASR
   arxiv: 
-  image: CASR_train.jpg
+  image: CASR_train.png
   authors:
     - kihwan
     - ganzorig
@@ -26,18 +26,53 @@
     - haengson
     - kyoungwon
   awards:
-    - "1st place in CVPRW2024"
+    - "1st place in AIS Challenge at CVPRW2024"
 - id: LRSRN
   title: "Lightweight Real-Time Image Super-Resolution Network for 4K Images"
   venue: CVPRW, 2023
-  description: "we  propose a lightweight real-time image super-resolution network for 4K images."
+  description: "we propose a lightweight real-time image super-resolution network for 4K images."
   project_page: "https://rlghksdbs.github.io/lrsrn_page/"
   github: Ganzoo/LRSRN
   arxiv: 
   image: camp_before.jpg
   authors:
-    - ganzorig*
-    - kihwan*
+    - ganzorig
+    - kihwan
     - jinman
     - haengson
     - kyoungwon
+  awards:
+    - "equal contribution"
+- id: TDPNet
+  title: "Textural Detail Preservation Network for Video Frame Interpolation"
+  venue: IEEE Access, 2023
+  description: "we propose a VFI network called the Textural Detail Preservation Network that can preserve textural details in videos."
+  project_page: "https://rlghksdbs.github.io/tdpnet_page/"
+  arxiv: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10182248"
+  image: camp_before.jpg
+  authors:
+    - kihwan
+    - jingang
+    - yonghan
+    - sungjei
+    - jinwoo
+  awards:
+    - "Journal Paper"
+- id: TDPNet
+  title: "Skip-Concatenated Image Super-Resolution Network for Mobile Devices"
+  venue: IEEE Access, 2022
+  description: "we introduced a skip connection layer by directly concatenating a low-resolution input image with an intermediate feature map"
+  arxiv: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9999223"
+  image: camp_before.jpg
+  authors:
+    - ganzorig
+    - jingang
+    - myeongkyun
+    - kihwan
+    - hyeoncheol
+    - seungho
+    - jinwoo
+    - sungjei
+    - yoonsik
+  awards:
+    - "Journal Paper, 1st place in MAI Challenge at ECCVW2022"
