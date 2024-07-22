@@ -1,11 +1,9 @@
 - name: AIS: Vision, Grapics and AI for Streaming
-  description: >-
-    Computer Vision and Patter Recognition Workshop 2024
-    Real-time Compressed Image Super-Resolution Challenge
+  description: "Computer Vision and Patter Recognition Workshop 2024
+    Real-time Compressed Image Super-Resolution Challenge"
   venue: CVPRW, 2024
 
 - name: Mobile AI Challenge 2022
-  description: >-
-    European Conference on Computer Vision Workshop 2022
-    Efficient and Accurate Quantized Image Super-Resolution on Mobile NPUs Challenge
+  description: "European Conference on Computer Vision Workshop 2022
+    Efficient and Accurate Quantized Image Super-Resolution on Mobile NPUs Challenge"
   venue: ECCVW, 2024
