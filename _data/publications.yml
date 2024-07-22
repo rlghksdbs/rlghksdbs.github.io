@@ -32,6 +32,7 @@
   venue: CVPRW, 2023
   description: "we propose a lightweight real-time image super-resolution network for 4K images."
   project_page: "https://rlghksdbs.github.io/lrsrn_page/"
+  arxiv: "https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Gankhuyag_Lightweight_Real-Time_Image_Super-Resolution_Network_for_4K_Images_CVPRW_2023_paper.pdf"
   github: Ganzooo/LRSRN
   arxiv: 
   image: LRSRN.png
