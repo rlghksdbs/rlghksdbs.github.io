@@ -1,3 +1,7 @@
+:root {
+  --main-width: 960px;
+}
+
 .pub-card {
   display: flex;
   gap: 18px;
