@@ -1,0 +1,44 @@
+baseURL = 'https://rlghksdbs.github.io/'
+languageCode = 'en-us'
+title = 'Kihwan Yoon'
+theme = 'PaperMod'
+paginate = 5
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  name = "Kihwan Yoon"
+  description = "AI Researcher at BLUEDOT | Computer Vision · Stereoscopic · HDR · VFI · SR · LLM"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  hideMeta = true
+
+  [[params.socialIcons]]
+    name = "google-scholar"
+    url = "https://scholar.google.com/citations?user=LLLbCIQAAAAJ&hl=en"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/kihwan-yoon-023012249/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/rlghksdbs"
+
+    
+
+[menu]
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 1
+  [[menu.main]]
+    name = "Awards"
+    url = "/awards/"
+    weight = 2
+  [[menu.main]]
+    name = "Service"
+    url = "/service/"
+    weight = 3

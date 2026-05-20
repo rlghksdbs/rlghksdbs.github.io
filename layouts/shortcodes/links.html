@@ -1,0 +1,12 @@
+{{- $project := .Get "project" -}}
+{{- $pdf := .Get "pdf" -}}
+{{- $arxiv := .Get "arxiv" -}}
+{{- $code := .Get "code" -}}
+{{- $bib := .Get "bib" -}}
+<span class="pub-links-inline">
+{{- with $project }}<a href="{{ . }}" target="_blank" rel="noopener">&#127760; Project</a>{{ end -}}
+{{- with $pdf }}<a href="{{ . }}" target="_blank" rel="noopener">&#128196; PDF</a>{{ end -}}
+{{- with $arxiv }}<a href="{{ . }}" target="_blank" rel="noopener">arXiv</a>{{ end -}}
+{{- with $code }}<a href="{{ . }}" target="_blank" rel="noopener">&#128187; Code</a>{{ end -}}
+{{- with $bib }}<a href="{{ . }}" target="_blank" rel="noopener">BibTeX</a>{{ end -}}
+</span>
