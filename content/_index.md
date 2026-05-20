@@ -16,6 +16,19 @@ AI Researcher at **BLUEDOT**, working on computer vision and on-device deep lear
 
 ---
 
+## Education
+
+- **Ph.D. in Electrical and Computer Engineering**, University of Seoul (Sep 2020 – Aug 2024)  
+  Advisor: Prof. Yong Han Kim
+- **B.S. in Electrical and Computer Engineering**, Dankook University (Mar 2015 – Feb 2019)
+
+## Experience
+
+- **AI Researcher**, BLUEDOT (2024 – Present)
+- **Research Scientist**, Korea Electronics Technology Institute (KETI) (Sep 2021 – Jan 2024)
+
+---
+
 ## Recent Papers
 {{< pub
   title="XPaintNet: An eXtreme Lightweight Framework for Stereoscopic Conversion without Inpainting Network"
